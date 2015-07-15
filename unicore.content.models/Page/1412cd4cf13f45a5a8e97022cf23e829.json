@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,10 +20,10 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": "5a02b102482f4f15be88514fed6ef649", 
+  "image": "c6b94ccc50bd4072b1b42f7c2372c1a9", 
   "published": null, 
   "position": 11, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://localhost:8888", 
   "slug": "helping-children-grow-and-thrive", 
   "uuid": "1412cd4cf13f45a5a8e97022cf23e829"
 }
