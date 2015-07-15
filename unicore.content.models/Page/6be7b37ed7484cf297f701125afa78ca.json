@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,10 +20,10 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": "c408df76f0cb4a3caa22a265f2932864", 
+  "image": "6375b0a7311d4b6cbb0efea93eebbf8c", 
   "published": null, 
   "position": 1, 
-  "image_host": "http://localhost:8888", 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "staying-safe-injury", 
   "uuid": "6be7b37ed7484cf297f701125afa78ca"
 }

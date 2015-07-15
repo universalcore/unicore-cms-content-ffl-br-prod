@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,10 +20,10 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": "2732ad341a7a49ea9dd20054e434754c", 
+  "image": "8c7ef31ce5894d5c87aeea4d6439dfc2", 
   "published": null, 
   "position": 2, 
-  "image_host": "http://localhost:8888", 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "protection-especially-important-children", 
   "uuid": "12ba927a51cf439fae1a6d4345d917f2"
 }
