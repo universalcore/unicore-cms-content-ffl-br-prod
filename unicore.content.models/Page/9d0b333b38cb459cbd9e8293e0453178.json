@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,10 +20,10 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": "6f02b2058dfb4c2a8e706c6737b55a8d", 
+  "image": "39ff43f707154fe69a03ec3ca6b51111", 
   "published": null, 
   "position": 0, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://localhost:8888", 
   "slug": "what-know-about-emergencies", 
   "uuid": "9d0b333b38cb459cbd9e8293e0453178"
 }
