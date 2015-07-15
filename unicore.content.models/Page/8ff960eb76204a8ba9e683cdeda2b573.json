@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,10 +20,10 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": "5225cdd396444cde926d062f92d1045d", 
+  "image": "2c4a2548cca44881b78b08f069e762da", 
   "published": null, 
   "position": 6, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://localhost:8888", 
   "slug": "staying-away-coughs-colds-and-pneumonia", 
   "uuid": "8ff960eb76204a8ba9e683cdeda2b573"
 }
