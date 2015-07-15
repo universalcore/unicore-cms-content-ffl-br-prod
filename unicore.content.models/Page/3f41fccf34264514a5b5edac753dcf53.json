@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,10 +20,10 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": "7f3d1f45d83b432ead9aec5253121a6f", 
+  "image": "eeca045eab5f4903aeb9447368e88807", 
   "published": null, 
   "position": 13, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://localhost:8888", 
   "slug": "birth-and-family-life-planning", 
   "uuid": "3f41fccf34264514a5b5edac753dcf53"
 }
