@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "9189313239074928a66343ae29e44b82", 
+  "language": "por_PT", 
+  "title": "O que s\u00e3o os \u201cFatos para a Vida\u201d?", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "o-que-sao-os-fatos-para-vida", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
