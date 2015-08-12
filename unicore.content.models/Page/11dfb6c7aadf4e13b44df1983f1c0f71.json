@@ -6,12 +6,12 @@
   "primary_category": "e4e61e4c48ab46b297f41949acf4cef2", 
   "created_at": "2015-07-20T21:08:46+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-12T09:34:13.846210+00:00", 
+  "modified_at": "2015-08-12T09:43:57.464058+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "358840d78d0440e48f29bbf4d1cafe09", 
   "published": null, 
-  "position": 4, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-evitar-diarreia", 
   "uuid": "11dfb6c7aadf4e13b44df1983f1c0f71"
