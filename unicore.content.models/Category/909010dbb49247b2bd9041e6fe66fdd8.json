@@ -1,14 +1,14 @@
 {
   "subtitle": "", 
   "uuid": "909010dbb49247b2bd9041e6fe66fdd8", 
-  "language": "por_PT", 
+  "language": "por_BR", 
   "title": "Fatos para: Novas mam\u00e3es", 
   "image": null, 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "fatos-para-novas-mamaes", 
