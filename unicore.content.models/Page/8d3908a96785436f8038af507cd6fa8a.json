@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Os oito primeiros anos da vida de uma crian\u00e7a s\u00e3o fundamentalmente importantes. Eles t\u00eam impacto no seu crescimento, desenvolvimento, rendimento escolar, na conviv\u00eancia com a fam\u00edlia e comunidade, garantindo-lhe uma vida saud\u00e1vel e produtiva no futuro.", 
-  "language": "por_PT", 
+  "language": "por_BR", 
   "title": "Ajudando as crian\u00e7as a crescer e se desenvolver", 
   "primary_category": "909010dbb49247b2bd9041e6fe66fdd8", 
   "created_at": "2015-07-20T20:43:56+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-12T09:50:30.708353+00:00", 
+  "modified_at": "2017-02-09T14:27:38.563753+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
