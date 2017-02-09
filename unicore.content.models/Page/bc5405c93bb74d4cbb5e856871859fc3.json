@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "A mal\u00e1ria \u00e9 uma doen\u00e7a grave transmitida pela picada de mosquito e \u00e9 uma das principais causas de morte, doen\u00e7a e baixo crescimento e desenvolvimento de crian\u00e7as pequenas.", 
-  "language": "por_PT", 
+  "language": "por_BR", 
   "title": "Como evitar a mal\u00e1ria", 
   "primary_category": "e4e61e4c48ab46b297f41949acf4cef2", 
   "created_at": "2015-07-20T21:22:19+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-12T09:51:42.410259+00:00", 
+  "modified_at": "2017-02-09T14:27:40.844905+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
