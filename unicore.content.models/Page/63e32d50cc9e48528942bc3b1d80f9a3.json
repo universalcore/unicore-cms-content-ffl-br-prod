@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Crian\u00e7as pequenas s\u00e3o mais vulner\u00e1veis aos efeitos da \u00e1gua contaminada, \u00e0 falta de saneamento e higiene do que qualquer outro grupo et\u00e1rio.", 
-  "language": "por_PT", 
+  "language": "por_BR", 
   "title": "Boa higiene ajuda na sa\u00fade", 
   "primary_category": "e4e61e4c48ab46b297f41949acf4cef2", 
   "created_at": "2015-07-20T21:19:03+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-12T09:50:44.782707+00:00", 
+  "modified_at": "2017-02-09T14:27:39.344350+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
